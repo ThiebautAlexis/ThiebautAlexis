@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I'm open to work! Feel free to reach me on [LinkedIn](https://www.linkedin.com/in/alexis-thiebaut-b80586149/ "My LinkedIn Profile")! 
+
+🔭 I’m currently working on a better version of [The Dreadful Show](https://lucasjoestar.itch.io/the-dreadful-show) and on some personal projects. Trailers will be available soon! :)
+
+🌱 I’m currently learning new Unity Engine features (such as compute shaders and HLSL) and improving my skills with this engine.
+
 <!--
 **ThiebautAlexis/ThiebautAlexis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
